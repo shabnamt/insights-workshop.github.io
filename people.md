@@ -17,9 +17,13 @@ Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-worksho
 
 ## <span style="color:#267CB9"> Invited speakers (in alphabetical order) </span>
 
-* [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/), University of Michigan
+* [Zachary Lipton](http://zacklipton.com/), Carnegie Mellon University
 
-* [Byron C. Wallace](http://www.byronwallace.com/), Northeastern University
+* [Noah Smith](https://homes.cs.washington.edu/~nasmith/), University of Washington / AI2
+
+* [Rachael Tatman](http://www.rctatman.com/), Rasa
+
+* [Bonnie Webber](https://homepages.inf.ed.ac.uk/bonnie/), University of Edinburgh
 
 ## <span style="color:#267CB9"> Program committee (in alphabetical order) </span>
   
